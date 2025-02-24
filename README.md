@@ -1,6 +1,6 @@
 # Digital Modulation and Filtering Techniques
 
-This repository contains a series of exercises and activities focused on various digital signal processing and modulation techniques. The project includes implementations for filtering, modulation, and demodulation, as well as simulations for error performance in communication systems.
+This repository contains a series of exercises and activities focused on various digital signal processing and modulation techniques, implemented in MATLAB. The project includes implementations for filtering, modulation, and demodulation, as well as simulations for error performance in communication systems.
 
 ## Core Activities:
 
@@ -39,8 +39,9 @@ This repository contains a series of exercises and activities focused on various
 - **BER Comparison**: Analyzing the effect of coding on system performance using BER plots.
 
 ## Requirements:
-- Python 3.x
-- NumPy, Matplotlib, SciPy, etc.
+- MATLAB R2020a or higher
+- Communication System Toolbox
+- Signal Processing Toolbox
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
